@@ -1,13 +1,13 @@
-# vue-router-app
+# vue-router-webapp
 ## 使用
 ```
-npm install vue-router-app
+npm install vue-router-webapp
 
-import ElementUIExpand from 'vue-router-app'
+import ElementUIExpand from 'vue-router-webapp'
 Vue.use(ElementUIExpand)
 ```
 ## demo
-https://fastcreator.github.io/vue-router-app/
+https://fastcreator.github.io/vue-router-webapp/
 
 ## 发布pages以及npm
 ```

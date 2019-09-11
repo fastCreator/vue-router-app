@@ -1,5 +1,5 @@
 {
-  "name": "vue-router-app",
+  "name": "vue-router-webapp",
   "version": "0.0.1",
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -62,7 +62,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fastCreator/vue-router-app.git"
+    "url": "git+https://github.com/fastCreator/vue-router-webapp.git"
   },
   "keywords": [
     "vue",
@@ -72,7 +72,7 @@
   "author": "coco",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fastCreator/vue-router-app/issues"
+    "url": "https://github.com/fastCreator/vue-router-webapp/issues"
   },
-  "homepage": "https://fastcreator.github.io/vue-router-app/"
+  "homepage": "https://fastcreator.github.io/vue-router-webapp/"
 }
